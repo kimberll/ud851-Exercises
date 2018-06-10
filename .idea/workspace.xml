@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69169b35-77f5-4507-ac79-54b2ba852e56" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,24 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="219">
+              <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="360">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -53,6 +54,8 @@
       <list>
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" />
+        <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -88,73 +91,13 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
               <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
               <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Exercise-CreateLayout" type="cbb8eebc:String" user="T01.01-Exercise-CreateLayout" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Exercise-CreateLayout" type="cbb8eebc:String" user="T01.01-Exercise-CreateLayout" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Exercise-CreateLayout" type="cbb8eebc:String" user="T01.01-Exercise-CreateLayout" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Solution-CreateLayout" type="cbb8eebc:String" user="T01.01-Solution-CreateLayout" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Solution-CreateLayout" type="cbb8eebc:String" user="T01.01-Solution-CreateLayout" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Solution-CreateLayout" type="cbb8eebc:String" user="T01.01-Solution-CreateLayout" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Solution-CreateLayout" type="cbb8eebc:String" user="T01.01-Solution-CreateLayout" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-              <item name="res" type="cbb8eebc:String" user="res" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="ud851-Exercises" type="cbb8eebc:String" user="ud851-Exercises" />
-              <item name="Lesson01-Favorite-Toys" type="cbb8eebc:String" user="Lesson01-Favorite-Toys" />
-              <item name="T01.01-Solution-CreateLayout" type="cbb8eebc:String" user="T01.01-Solution-CreateLayout" />
-              <item name="app" type="cbb8eebc:String" user="app" />
-              <item name="src/main" type="cbb8eebc:String" user="src/main" />
-              <item name="res" type="cbb8eebc:String" user="res" />
-              <item name="layout" type="cbb8eebc:String" user="layout" />
+              <item name="T01.02-Exercise-DisplayToyList" type="cbb8eebc:String" user="T01.02-Exercise-DisplayToyList" />
             </path>
           </expand>
           <select />
@@ -294,18 +237,18 @@
     <frame x="85" y="41" width="1319" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32946298" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280116" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Preview" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16992952" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16992952" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15583399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15331279" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -360,8 +303,27 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="420">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
           <folding />
         </state>
       </provider>
